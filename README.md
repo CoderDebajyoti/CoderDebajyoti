@@ -1,6 +1,6 @@
 # Hi there, I'm Debajyoti Das 👋
 
-![Profile Views](https://sites.google.com/view/debajyotidas/home)
+---
 
 Welcome to my GitHub profile! I'm a student, passionate about Robotics with AI. I love working on exciting projects and learning new technologies.
 
