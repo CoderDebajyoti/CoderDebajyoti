@@ -13,6 +13,18 @@
 
 - 📝 I regularly write articles on [Voice enabled user interface for geospatial map based web-applications](Voice enabled user interface for geospatial map based web-applications)
 
+## 🔭 Projects & Work
+
+- *[Palindrome Number Checker](https://github.com/CoderDebajyoti/Palindrome-Number-Checker-)*: The Palindrome Number Checker is a web-based application designed to determine if a given number is a palindrome. A palindrome is a number that reads the same backward as forward, such as 121 or 1331. This project is built using HTML, CSS, and JavaScript, providing a simple and interactive user interface for users to check numbers for palindromicity. Users can input a number, and with a click of a button, the application will instantly display whether the number is a palindrome. This project demonstrates basic web development skills, including user input handling, DOM manipulation, and conditional logic in JavaScript.
+- *[Smart Plant Monitoring System]()*: This project will show some applied technology on indoor plants, such as temperature, humidity, soil moisture, water level, etc., and our focus is to make it automated planting using Arduino.
+- *[Portfolio](https://sites.google.com/view/debajyotidas/project-page)*: Creating a portfolio website involves designing and developing a personal web space to showcase your work, skills, and achievements. This type of website serves as a digital resume, allowing you to present your projects, experiences, and talents to potential employers, clients, or collaborators.
+
+## 🌱 Currently Learning
+
+- Python
+- DSA in C++
+- C in HakerRank
+
 - 📫 How to reach me **debajyoti.475@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
