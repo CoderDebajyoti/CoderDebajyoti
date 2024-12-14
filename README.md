@@ -166,23 +166,10 @@
 
 
 # Contribution Chart
-<p></div> <img width=325 align="center" src="https://github-readme-stats.vercel.app/api?username=CoderDebajyoti&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="coderdebajyoti" />
+<div align= center>
+<a href="https://github.com/CoderDebajyoti"><img src="https://github-readme-activity-graph.vercel.app/graph?username=CoderDebajyoti&bg_color=000000&color=ffffff&line=f500e4&point=e1ff00&area=true&hide_border=true" height="200px" width = "100%" alt ="activity graph" /></a>
+
   <div align=center>
-![](https://github-readme-activity-graph.vercel.app/graph?username=CoderDebajyoti&bg_color=000000&color=ffffff&line=f500e4&point=e1ff00&area=true&hide_border=true)
-
-<p></div> <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=CoderDebajyoti&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-  <div align=center>
-  <a href="https://github.com/CoderDebajyoti"><img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=CoderDebajyoti&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117" height="200px" width="40.5%" alt="streak stats"/> 
+  <a href="https://github.com/CoderDebajyoti"><img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=CoderDebajyoti&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117" height="200px" width="100%" alt="streak stats"/> 
   </a>
-</div></p> <details>
-
-# Github Stats
-
-  <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CoderDebajyoti&theme=radical" alt="Debajyoti's GitHub Contribution"/>
-  </a>
-</p>
-<a> 
-  <p align="center">
-    <a href="https://github.com/CoderDebajyoti"><img alt="Debajyoti's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=CoderDebajyoti&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="200px" width="50.5%"></a>
-<!-- <img src="https://raw.githubusercontent.com/dqwe223/dqwe223/main/gif/line-neon.gif" width="100%">  -->
+</div></p>
