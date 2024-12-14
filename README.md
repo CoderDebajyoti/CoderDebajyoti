@@ -159,14 +159,22 @@
 </table>
 <br><br>
 </table>
+# Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderdebajyoti&show_icons=true&locale=en&layout=compact" alt="coderdebajyoti" /></p>
+<p><img align="Center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CoderDebajyoti&theme=aura" alt="coderdebajyoti" /></p>
 
-<p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CoderDebajyoti&theme=aura" alt="coderdebajyoti" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coderdebajyoti&show_icons=true&locale=en" alt="coderdebajyoti" /></p>
-
-
+# My Skills
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
 # Contribution Chart
 ![](https://github-readme-activity-graph.vercel.app/graph?username=CoderDebajyoti&bg_color=000000&color=ffffff&line=f500e4&point=e1ff00&area=true&hide_border=true)
 
