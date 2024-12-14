@@ -52,13 +52,13 @@
 </div></p> <details>
   <summary>:zap: Github Stats</summary>  
   <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CoderDebajyoti&theme=radical" alt="Apurba's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CoderDebajyoti&theme=radical" alt="Debajyoti's GitHub Contribution"/>
   </a>
 </p>
 <a> 
   <p align="center">
     <a href="https://github.com/coder-apr-5"><img alt="Debajyoti's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=CoderDebajyoti&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="200px" width="50.5%">
-  <div align=right>
+  <div align=center>
   <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=CoderDebajyoti&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117" height="200px" width="40.5%" alt="streak stats"/> 
   </a>
 <img src="https://raw.githubusercontent.com/dqwe223/dqwe223/main/gif/line-neon.gif" width="100%"> 
