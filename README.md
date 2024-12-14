@@ -1,5 +1,10 @@
 [![Masterhead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://github.com/CoderDebajyoti)
-<h1 align="center">Hi 👋, I'm DEBAJYOTI DAS</h1>
+
+<p align="center">
+  <h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto+Slab&weight=500&center=true&size=31&pause=60&duration=3000&color=36C2CE&random=false&width=600&height=58&lines=Hello+pals!;I'm+Debajyoti+Das;I'm+a+Computer+Science+Engineer;I'm+learning+DSA+in+C++!;Aspiring+AI+and+Robotics+Enthusiast;Let's+get+started..." alt="Example Usage - README Typing SVG">
+  </h1>
+</p>
 <h3 align="center">A passionate a software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderdebajyoti&label=Profile%20views&color=0e75b6&style=flat" alt="coderdebajyoti" /> </p>
