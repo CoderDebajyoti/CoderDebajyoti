@@ -1,9 +1,12 @@
+[![Masterhead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://github.com/CoderDebajyoti)
 <h1 align="center">Hi 👋, I'm DEBAJYOTI DAS</h1>
 <h3 align="center">A passionate a software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderdebajyoti&label=Profile%20views&color=0e75b6&style=flat" alt="coderdebajyoti" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coderdebajyoti" alt="coderdebajyoti" /></a> </p>
+
+<!-- https://github-profile-trophy.vercel.app/?username=CoderDebajyoti&theme=radical&no-frame=false&no-bg=true&margin-w=5 -->
 
 <p align="left"> <a href="https://twitter.com/yourdebo_475" target="blank"><img src="https://img.shields.io/twitter/follow/yourdebo_475?logo=twitter&style=for-the-badge" alt="yourdebo_475" /></a> </p>
 
@@ -21,21 +24,34 @@
 
 ## 🌱 Currently Learning
 
-- Python
-- DSA in C++
-- C in HakerRank
+- 🐍 **Python**  
+- 📚 **Data Structures and Algorithms (DSA) in C++**  
+- 🎯 **C on HackerRank**  
+- 📫 How to reach me: <a href="mailto:debajyoti.475@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" /></a>
 
-- 📫 How to reach me **debajyoti.475@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/https://codepen.io/coderdebajyoti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/coderdebajyoti" height="30" width="40" /></a>
-<a href="https://twitter.com/yourdebo_475" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yourdebo_475" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/debajyoti-das-76a9aa284/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/debajyoti-das-76a9aa284/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@debsinnovationhub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@debsinnovationhub" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/debajyoti475?fbclid=iwzxh0bgnhzw0cmtaaar0kik6ii5amchxzz73e3-eyp_m3qym_1uit7wnojffcfjq0glbg7v_vefa_aem_kfibsvf7__sh_vjbne4h1g" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/debajyoti475?fbclid=iwzxh0bgnhzw0cmtaaar0kik6ii5amchxzz73e3-eyp_m3qym_1uit7wnojffcfjq0glbg7v_vefa_aem_kfibsvf7__sh_vjbne4h1g" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/debajyoti_475" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/debajyoti_475" height="30" width="40" /></a>
-</p>
+# Connect with me:
+
+<div align="center">
+  <a href="https://codepen.io/coderdebajyoti" target="_blank">
+    <img src="https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://twitter.com/yourdebo_475" target="_blank">
+    <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://www.linkedin.com/in/debajyoti-das-76a9aa284/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://www.youtube.com/@debsinnovationhub" target="_blank">
+    <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://www.codechef.com/users/debajyoti475?fbclid=iwzxh0bgnhzw0cmtaaar0kik6ii5amchxzz73e3-eyp_m3qym_1uit7wnojffcfjq0glbg7v_vefa_aem_kfibsvf7__sh_vjbne4h1g" target="_blank">
+    <img src="https://img.shields.io/badge/codechef-%23BB5A2B.svg?&style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/debajyoti_475" target="_blank">
+    <img src="https://img.shields.io/badge/hackerrank-%232EC866.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" style="margin-bottom: 5px;" />
+  </a>
+</div>
 
 # Languages and Tools
 <table>
