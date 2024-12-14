@@ -23,9 +23,21 @@
 
 ## 🔭 Projects & Work
 
-- *[Palindrome Number Checker](https://github.com/CoderDebajyoti/Palindrome-Number-Checker-)*: The Palindrome Number Checker is a web-based application designed to determine if a given number is a palindrome. A palindrome is a number that reads the same backward as forward, such as 121 or 1331. This project is built using HTML, CSS, and JavaScript, providing a simple and interactive user interface for users to check numbers for palindromicity. Users can input a number, and with a click of a button, the application will instantly display whether the number is a palindrome. This project demonstrates basic web development skills, including user input handling, DOM manipulation, and conditional logic in JavaScript.
-- *[Smart Plant Monitoring System]()*: This project will show some applied technology on indoor plants, such as temperature, humidity, soil moisture, water level, etc., and our focus is to make it automated planting using Arduino.
-- *[Portfolio](https://sites.google.com/view/debajyotidas/project-page)*: Creating a portfolio website involves designing and developing a personal web space to showcase your work, skills, and achievements. This type of website serves as a digital resume, allowing you to present your projects, experiences, and talents to potential employers, clients, or collaborators.
+- **[Pomodoro Timer](https://github.com/CoderDebajyoti/Pomodoro-Timer)**: A productivity tool built using HTML, CSS, and JavaScript, enabling users to manage their time effectively with focus and break intervals. Includes an interactive UI with notifications and sound alerts for a seamless time management experience.
+
+- **[AI-Driven Crop Disease Prediction and Management System](https://github.com/CoderDebajyoti/AI-Crop-Disease-Management)**: An AI-powered web and mobile application designed to predict crop diseases based on images and environmental data. This project provides actionable insights and treatment recommendations to farmers, utilizing machine learning and a MySQL database for enhanced data management and analysis.
+
+- **[Face Liveness Detection for UIDAI Platform](https://github.com/CoderDebajyoti/Face-Liveness-Detection)**: A browser-based face liveness detection solution to prevent face spoofing, leveraging ONNX or TensorFlow.js models for active/passive detection. The model is optimized for fast inference within 500ms and ensures robust security for UIDAI applications.
+
+- **[Breakout Game in Python](https://github.com/CoderDebajyoti/Breakout-Game)**: A classic arcade-style game built using Pygame, featuring brick-breaking mechanics. The game is enhanced with smooth animations, a responsive paddle, and challenging gameplay dynamics.
+
+- **[Cat vs. Dog Image Classification](https://github.com/CoderDebajyoti/Cat_vs_Dog_Classification)**: A machine learning project using Python and TensorFlow to classify cat and dog images. Utilizes Kaggle's dataset under the MIT License and demonstrates proficiency in image recognition and model training.
+
+- **[Snake Game](https://github.com/CoderDebajyoti/Snake-Game-using-pygame)**: A fun Python-based game built using Pygame, featuring an animated snake, increasing difficulty, and a user-friendly gaming experience. 
+
+- **[Tic-Tac-Toe](https://github.com/CoderDebajyoti/Tic-Tac-Toe/tree/main)**: A simple implementation of the classic Tic-Tac-Toe game using HTML and Python. Demonstrates interactive gameplay with logic-based winning conditions.
+
+Explore more of my projects on my [GitHub](https://github.com/CoderDebajyoti).
 
 ## 🌱 Currently Learning
 
