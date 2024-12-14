@@ -162,6 +162,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderdebajyoti&show_icons=true&locale=en&layout=compact" alt="coderdebajyoti" /></p>
 
+<p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CoderDebajyoti&theme=aura" alt="coderdebajyoti" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coderdebajyoti&show_icons=true&locale=en" alt="coderdebajyoti" /></p>
 
 
@@ -170,7 +172,9 @@
 
 <p></div> <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=CoderDebajyoti&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div></p> <details>
-  <summary>:zap: Github Stats</summary>  
+
+# Github Stats
+
   <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CoderDebajyoti&theme=radical" alt="Debajyoti's GitHub Contribution"/>
   </a>
