@@ -7,9 +7,9 @@
 </p>
 <h3 align="center">A passionate a software developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=coderdebajyoti&label=Profile%20views&color=0e75b6&style=flat" alt="coderdebajyoti" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=coderdebajyoti&label=Profile%20views&color=0e75b6&style=flat" alt="coderdebajyoti"> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coderdebajyoti" alt="coderdebajyoti" /></a> </p>
+<p align="left"> <a href="https://github.com/CoderDebajyoti"><img src="https://github-profile-trophy.vercel.app/?username=coderdebajyoti" alt="coderdebajyoti" /></a> </p>
 
 <!-- https://github-profile-trophy.vercel.app/?username=CoderDebajyoti&theme=radical&no-frame=false&no-bg=true&margin-w=5 -->
 
