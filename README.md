@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="100%" height="350hv" alt="Gif showing the profile picture of Debajyoti Das">
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="100%" height="300hv" alt="Gif showing the profile picture of Debajyoti Das">
 
 <p align="center">
   <h1 align="center">
