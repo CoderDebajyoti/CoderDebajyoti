@@ -11,7 +11,6 @@
 
 <p align="left"> <a href="https://github.com/CoderDebajyoti"><img src="https://github-profile-trophy.vercel.app/?username=coderdebajyoti" alt="coderdebajyoti" /></a> </p>
 
-<!-- https://github-profile-trophy.vercel.app/?username=CoderDebajyoti&theme=radical&no-frame=false&no-bg=true&margin-w=5 -->
 
 <p align="left"> <a href="https://twitter.com/yourdebo_475" target="blank"><img src="https://img.shields.io/twitter/follow/yourdebo_475?logo=twitter&style=for-the-badge" alt="yourdebo_475" /></a> </p>
 
