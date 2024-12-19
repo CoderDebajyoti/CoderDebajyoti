@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on **Voice enabled user interface for geospatial map based web-applications**
 
-- 👨‍💻 All of my projects are available at [https://sites.google.com/view/debajyotidas/home](https://sites.google.com/view/debajyotidas/home)
+- 👨‍💻 All of my projects are available at [https://github.com/CoderDebajyoti](https://github.com/CoderDebajyoti)
 
 - 📝 I regularly write articles on [Voice enabled user interface for geospatial map based web-applications](Voice enabled user interface for geospatial map based web-applications)
 
