@@ -7,7 +7,7 @@
 </p>
 <h3 align="center">A passionate a software developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=CoderDebajyoti&abbreviated=true&color=BlueViolet" alt="coderdebajyoti"> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=CoderDebajyoti&abbreviated=true&color=Violet" alt="coderdebajyoti"> </p>
 
 <p align="left"> <a href="https://github.com/CoderDebajyoti"><img src="https://github-profile-trophy.vercel.app/?username=coderdebajyoti" alt="coderdebajyoti" /></a> </p>
 
