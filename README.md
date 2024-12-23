@@ -5,12 +5,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto+Slab&weight=500&center=true&size=31&pause=60&duration=3000&color=36C2CE&random=false&width=600&height=58&lines=Hello+pals!;I'm+Debajyoti+Das;I'm+a+Computer+Science+Engineer;I'm+learning+DSA+in+C++!;Aspiring+AI+and+Robotics+Enthusiast;Let's+get+started..." alt="Example Usage - README Typing SVG">
   </h1>
 </p>
-<h3 align="center">A passionate a software developer from India</h3>
+<h3 align="center">A passionate software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CoderDebajyoti&color=blue&abbreviated=true" alt="coderdebajyoti"> </p>
 
 <p align="left"> <a href="https://github.com/CoderDebajyoti"><img src="https://github-profile-trophy.vercel.app/?username=coderdebajyoti" alt="coderdebajyoti" /></a> </p>
-
 
 <p align="left"> <a href="https://twitter.com/yourdebo_475" target="blank"><img src="https://img.shields.io/twitter/follow/yourdebo_475?logo=twitter&style=for-the-badge" alt="yourdebo_475" /></a> </p>
 
@@ -18,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/CoderDebajyoti](https://github.com/CoderDebajyoti)
 
-- 📝 I regularly write articles on [Voice enabled user interface for geospatial map based web-applications](Voice enabled user interface for geospatial map based web-applications)
+- 📝 I regularly write articles on [Voice enabled user interface for geospatial map based web-applications](https://github.com/CoderDebajyoti)
 
 ## 🔭 Projects & Work
 
