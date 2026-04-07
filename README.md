@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://twitter.com/yourdebo_475" target="blank"><img src="https://img.shields.io/twitter/follow/yourdebo_475?logo=twitter&style=for-the-badge" alt="yourdebo_475" /></a> </p>
 
-- 🔭 I’m currently working on **Voice enabled user interface for geospatial map based web-applications**
+<!-- - 🔭 I’m currently working on **Voice enabled user interface for geospatial map based web-applications**
 
 - 👨‍💻 All of my projects are available at [https://github.com/CoderDebajyoti](https://github.com/CoderDebajyoti)
 
@@ -43,7 +43,7 @@ Explore more of my projects on my [GitHub](https://github.com/CoderDebajyoti).
 - 📚 **Data Structures and Algorithms (DSA) in C++**  
 - 🎯 **C on HackerRank**  
 - 📫 How to reach me: <a href="mailto:debajyoti.475@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" /></a>
-
+-->
 
 # Connect with me:
 
