@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CoderDebajyoti&color=blue&abbreviated=true" alt="coderdebajyoti"> </p>
 
-<p align="left"> <a href="https://github.com/CoderDebajyoti"><img src="https://github-profile-trophy.vercel.app/?username=coderdebajyoti" alt="coderdebajyoti" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/CoderDebajyoti"><img src="https://github-profile-trophy.vercel.app/?username=coderdebajyoti" alt="coderdebajyoti" /></a> </p> -->
 
 <p align="left"> <a href="https://twitter.com/yourdebo_475" target="blank"><img src="https://img.shields.io/twitter/follow/yourdebo_475?logo=twitter&style=for-the-badge" alt="yourdebo_475" /></a> </p>
 
