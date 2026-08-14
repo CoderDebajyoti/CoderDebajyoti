@@ -1,18 +1,18 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=CoderDebajyoti)](https://git.io/streak-stats)
+<!--[![GitHub Streak](https://streak-stats.demolab.com/?user=CoderDebajyoti)](https://git.io/streak-stats)-->
+
 <img src=https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif alt="Gif showing the profile picture of Debajyoti Das">
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=CoderDebajyoti&color=blue&abbreviated=true" alt="coderdebajyoti"> </p>
 
 <p align="center">
   <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto+Slab&weight=500&center=true&size=31&pause=60&duration=3000&color=36C2CE&random=false&width=600&height=58&lines=Hello+pals!;I'm+Debajyoti+Das;I'm+a+Computer+Science+Engineer;I'm+learning+DSA+in+C++!;Aspiring+AI+and+Robotics+Enthusiast;Let's+get+started..." alt="Example Usage - README Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto+Slab&weight=500&center=true&size=31&pause=60&duration=3000&color=36C2CE&random=false&width=600&height=58&lines=Hello+Friends!;I'm+Debajyoti+Das;I'm+a+Computer+Science+Engineer;I'm+learning+DSA+in+JAVA!;Aspiring+AI+and+ML+Enthusiast;Let's+get+started..." alt="Example Usage - README Typing SVG">
   </h1>
 </p>
 <h3 align="center">A passionate software developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=CoderDebajyoti&color=blue&abbreviated=true" alt="coderdebajyoti"> </p>
-
 <!--<p align="left"> <a href="https://github.com/CoderDebajyoti"><img src="https://github-profile-trophy.vercel.app/?username=coderdebajyoti" alt="coderdebajyoti" /></a> </p> -->
 
-<p align="left"> <a href="https://twitter.com/yourdebo_475" target="blank"><img src="https://img.shields.io/twitter/follow/yourdebo_475?logo=twitter&style=for-the-badge" alt="yourdebo_475" /></a> </p>
 
 <!-- - 🔭 I’m currently working on **Voice enabled user interface for geospatial map based web-applications**
 
@@ -49,14 +49,17 @@ Explore more of my projects on my [GitHub](https://github.com/CoderDebajyoti).
 # Connect with me:
 
 <div align="center">
-  <a href="https://codepen.io/coderdebajyoti" target="_blank">
-    <img src="https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" style="margin-bottom: 5px;" />
+  <!--<a href="https://codepen.io/coderdebajyoti" target="_blank">
+    <img src="https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" style="margin-bottom: 5px;" />-->
   </a>
-  <a href="https://twitter.com/yourdebo_475" target="_blank">
+  <a href="https://x.com/yourdebo_475" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="margin-bottom: 5px;" />
   </a>
   <a href="https://www.linkedin.com/in/debajyoti-das-76a9aa284/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://leetcode.com/u/SfhwO6KhHW/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-SfhwO6KhHW-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" style="margin-bottom: 5px;" />
   </a>
   <a href="https://www.youtube.com/@debsinnovationhub" target="_blank">
     <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" style="margin-bottom: 5px;" />
