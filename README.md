@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="CoderDebajyoti's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 <!--[![GitHub Streak](https://streak-stats.demolab.com/?user=CoderDebajyoti)](https://git.io/streak-stats)-->
 
 <img src=https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif alt="Gif showing the profile picture of Debajyoti Das">
